@@ -1,0 +1,23 @@
+{
+  "name": "sismo_twitter",
+  "version": "0.0.1",
+  "description": "Actualiza en tiempo real los twitts de sismologico nacional",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-functions": "^0.6.3",
+    "request": "^2.82.0",
+    "tough-cookie": "^2.3.3",
+    "twitter": "^1.7.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sismo",
+    "real"
+  ],
+  "author": "Mr. Internauta",
+  "license": "ISC"
+}
